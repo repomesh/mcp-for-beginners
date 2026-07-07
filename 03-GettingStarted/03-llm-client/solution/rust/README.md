@@ -27,4 +27,4 @@ cargo build
 cargo run
 ```
 
-The client starts the calculator MCP server, lists its tools, and uses the model (`openai/gpt-5-mini`) to call the `add` tool. You should see output that lists the available tools and prints the result of the tool call.
+The client starts the calculator MCP server, fetches its tool list, and uses the model (`openai/gpt-5-mini`) to call the `add` tool. You should see output indicating the tool call (for example, "Calling tool: add") and the result of that call.
