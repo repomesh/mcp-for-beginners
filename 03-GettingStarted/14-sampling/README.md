@@ -1,4 +1,4 @@
-DEPRECATED per these [release notes](https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/)
+> [DEPRECATED: 2026-07-28 RELEASE CANDIDATE](https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/)
 
 # Sampling - delegate features to the Client
 
